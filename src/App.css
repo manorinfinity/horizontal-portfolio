@@ -1,0 +1,10 @@
+.container {
+  display: flex;
+ 
+  overflow-x: scroll;
+  overflow-y: hidden;
+  white-space: nowrap;
+}
+.item {
+  width: 100vw;
+}
